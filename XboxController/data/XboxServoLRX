@@ -1,0 +1,3 @@
+Xbox Servo
+bigServoPod	motor servo	3	SLIDER	X Axis	0	1.0	0.0
+servoPos	claw servo	3	SLIDER	X Rotation	0	1.0	0.0
